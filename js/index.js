@@ -1,7 +1,7 @@
 const menu = [
     {
       id: 1,
-      title: "buttermilk pancakes",
+      title: "Italian Pizza",
       category: "breakfast",
       price: 15.99,
       img: "./images/pizza.jpg",
@@ -9,7 +9,7 @@ const menu = [
     },
     {
       id: 2,
-      title: "diner double",
+      title: "Blazilian pizza",
       category: "lunch",
       price: 13.99,
       img: "./images/pizza2.jpg",
@@ -49,7 +49,7 @@ const menu = [
     },
     {
       id: 7,
-      title: "bacon overflow",
+      title: "Fanta",
       category: "breakfast",
       price: 8.99,
       img: "./images/fanta3.jpg",
@@ -73,7 +73,7 @@ const menu = [
     },
     {
       id: 10,
-      title: "bison steak",
+      title: "bison Icescreams",
       category: "dinner",
       price: 22.99,
       img: "./images/pizza5.jpg",
